@@ -2,7 +2,7 @@
 
 ## Create a kubernetes cluster
 - One node is enough, with minimum **2 CPU** and **6 GB** memory
-- You will need more capacity if you plan to put a delegate in the cluster
+- You will need more capacity if you plan to put a delegate in the cluster1
 
 ## Add kubernetes cloud provider in Harness ([docs](https://docs.harness.io/article/whwnovprrb-cloud-providers#kubernetes_cluster))
 - In Harness, add kubernetes cloud provider for the cluster, called `cv-demo`
