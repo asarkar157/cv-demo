@@ -1,2 +1,5 @@
 harnessApiVersion: '1.0'
 type: APPLICATION
+branchName: master
+gitConnector: Github CV Demo
+isGitSyncEnabled: true
